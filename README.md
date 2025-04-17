@@ -103,7 +103,7 @@
 
 ### 2.3 Tự viết lại class tạo gadget
 - Viết lại class Java mô phỏng ysoserial:
-  ```java
+```java
 package com.example;  
   
 import org.apache.commons.collections.Transformer;  
@@ -165,6 +165,7 @@ public class CommonsCollections1 {
     }  
 }
 ```
+
 - Test với chương trình deserialize ở bước 2.1 và kiểm tra kết quả.
 
 ---
