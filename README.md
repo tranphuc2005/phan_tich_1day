@@ -164,7 +164,7 @@ public class CommonsCollections1 {
         fileOut.close();  
     }  
 }
-  ```
+```
 - Test với chương trình deserialize ở bước 2.1 và kiểm tra kết quả.
 
 ---
